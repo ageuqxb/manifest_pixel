@@ -73,6 +73,7 @@
   <project path="system/security" name="system_security" remote="elixir"  clone-depth="1" />
   <project path="system/bpf" name="system_bpf" remote="elixir" />
   <project path="system/netd" name="system_netd" remote="elixir" />
+  <project path="system/qcom" name="system_qcom" remote="elixir" />
 
   <!-- QCOM Sepolicies -->
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="elixir"  clone-depth="1" />
