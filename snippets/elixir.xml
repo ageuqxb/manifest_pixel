@@ -25,6 +25,7 @@
   <project path="frameworks/libs/net" name="frameworks_libs_net" remote="elixir" />
 
   <!-- General repos -->
+  <project path="kernel/configs" name="kernel_configs" remote="elixir" groups="vts,pdk" />
   <project path="art" name="art" remote="elixir" />
   <project path="manifest" name="manifest" remote="elixir" clone-depth="1" />
   <project path="bionic" name="bionic" remote="elixir" clone-depth="1" />
