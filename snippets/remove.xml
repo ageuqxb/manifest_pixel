@@ -118,9 +118,12 @@
 
   <!-- Packages (Apps) -->
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/ImsServiceEntitlement" />
+  <remove-project name="platform/packages/apps/Nfc" />
 
   <!-- Packages (Modules) -->
   <remove-project name="platform/packages/modules/Wifi" />
+  <remove-project name="platform/packages/modules/Bluetooth" /> 
   <remove-project name="platform/packages/modules/Connectivity" />
 
   <!-- Packages (Providers) -->
