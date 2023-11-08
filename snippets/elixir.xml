@@ -56,6 +56,7 @@
 
   <!-- Packages repos -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="elixir"  clone-depth="1" />
+  <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="elixir"  clone-depth="1" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="elixir"  clone-depth="1" />
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="elixir" />
   <project path="packages/apps/ImsServiceEntitlement" name="packages_apps_ImsServiceEntitlement" remote="elixir" />
