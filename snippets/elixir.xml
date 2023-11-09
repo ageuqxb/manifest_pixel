@@ -94,7 +94,6 @@
 
   <!-- Vendor (Qcom) repos -->
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,waipio-vendor" remote="elixir" />
-  <project path="vendor/qcom/opensource/display" name="vendor_qcom_opensource_display" remote="elixir" />
   <project path="vendor/qcom/opensource/fm-commonsys" name="vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" remote="elixir" />
   
   <!-- External repos -->
