@@ -2,18 +2,13 @@
 <manifest>
 
     <remote name="pixel"
-          fetch="https://github.com/PixelExperience"
-          revision="thirteen"
+          fetch="https://github.com/PixelExperience-Staging"
+          revision="fourteen"
           review="gerrit.pixelexperience.org" />
 
   <!-- msm8996 HALS -->
   <project path="hardware/qcom-caf/msm8996/audio" name="hardware_qcom-caf_msm8996_audio" remote="pixel" />
-  <!--<project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom-caf_msm8996_display" groups="qcom,legacy-qcom" remote="pixel" />-->
+  <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom-caf_msm8996_display" groups="qcom,legacy-qcom" remote="pixel" />
   <project path="hardware/qcom-caf/msm8996/media" name="hardware_qcom-caf_msm8996_media" remote="pixel" />
-
-  <!-- Pixel CAF repositories -->
-  <project path="hardware/qcom-caf/bengal/audio" name="hardware_qcom-caf_bengal_audio" remote="pixel" />
-  <project path="hardware/qcom-caf/bengal/gps" name="hardware_qcom-caf_bengal_gps" remote="pixel" />
-  <project path="hardware/qcom-caf/bengal/media" name="hardware_qcom-caf_bengal_media" remote="pixel" />
     
-</manifest>	  
+</manifest>	

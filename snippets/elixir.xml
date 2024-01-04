@@ -21,11 +21,8 @@
   <project path="frameworks/base" name="frameworks_base" remote="elixir" clone-depth="1" />
   <project path="frameworks/native" name="frameworks_native" remote="elixir" clone-depth="1" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="elixir" clone-depth="1" />
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="elixir" clone-depth="1" />
-  <project path="frameworks/libs/net" name="frameworks_libs_net" remote="elixir" />
 
   <!-- General repos -->
-  <project path="kernel/configs" name="kernel_configs" remote="elixir" groups="vts,pdk" />
   <project path="art" name="art" remote="elixir" />
   <project path="manifest" name="manifest" remote="elixir" clone-depth="1" />
   <project path="bionic" name="bionic" remote="elixir" clone-depth="1" />
@@ -49,18 +46,13 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="elixir"  clone-depth="1" />
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="elixir" clone-depth="1" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="elixir" clone-depth="1" />
-  
-  <!-- External repos -->
-  <project path="external/cronet" name="external_cronet" remote="elixir-gitlab" clone-depth="1" />
-  <project path="external/selinux" name="external_selinux" remote="elixir" clone-depth="1" />
 
   <!-- Packages repos -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="elixir"  clone-depth="1" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="elixir"  clone-depth="1" />
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="elixir" />
-  <project path="packages/apps/ImsServiceEntitlement" name="packages_apps_ImsServiceEntitlement" remote="elixir" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="elixir" />
-
+  
   <!-- Packages (Services) repos -->
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="elixir"  clone-depth="1" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="elixir"  clone-depth="1" />
@@ -68,7 +60,6 @@
   <!-- Packages (Modules) repos -->
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="elixir"  clone-depth="1" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="elixir"  clone-depth="1" />
-  <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="elixir-gitlab" clone-depth="1" />
 
   <!-- System repos -->
   <project path="system/sepolicy" name="system_sepolicy" remote="elixir"  clone-depth="1" />
@@ -108,6 +99,7 @@
   <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="prebuilts_clang_host_linux-x86_clang-r450784d" revision="UNO" remote="elixir-gitlab" clone-depth="1" />
   <project path="prebuilts/clang/host/linux-x86/clang-r475365b" name="android_prebuilts_clang_host_linux-x86_clang-r475365b" remote="elixir-gitlab" clone-depth="1" />
   <project path="prebuilts/clang/host/linux-x86/clang-r487747" name="android_prebuilts_clang_host_linux-x86_clang-r487747" revision="Tiramisu" remote="elixir-gitlab" clone-depth="1"  />
+  <project path="prebuilts/clang/host/linux-x86/clang-r498229" name="prebuilts_clang_host_linux-x86_clang-r498229" remote="elixir-gitlab" clone-depth="1"  />
   <project path="prebuilts/clang/kernel/linux-x86/clang-r416183b" name="prebuilts_clang_kernel_linux-x86_clang-r416183b" remote="pixel" clone-depth="1" />
   
   <project path="prebuilts/tools-custom" name="prebuilts_tools-custom" remote="elixir" clone-depth="1" />

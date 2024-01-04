@@ -82,10 +82,8 @@
   <!-- Framework -->
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/opt/telephony" />
-  <remove-project name="platform/frameworks/opt/net/wifi" />
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/native" />
-  <remove-project name="platform/frameworks/libs/net" />	  
 	  
   <!-- General -->
   <remove-project name="kernel/configs" />
@@ -113,18 +111,15 @@
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/cronet" />
   <remove-project name="platform/external/zstd" />
-  <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/libnl" />
 
   <!-- Packages (Apps) -->
   <remove-project name="platform/packages/apps/Settings" />
-  <remove-project name="platform/packages/apps/ImsServiceEntitlement" />
   <remove-project name="platform/packages/apps/Nfc" />
 
   <!-- Packages (Modules) -->
   <remove-project name="platform/packages/modules/Wifi" />
-  <remove-project name="platform/packages/modules/Bluetooth" /> 
-  <remove-project name="platform/packages/modules/Connectivity" />
+  <remove-project name="platform/packages/modules/Bluetooth" />
 
   <!-- Packages (Providers) -->
 
