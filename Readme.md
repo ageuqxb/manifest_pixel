@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/O4HxGQT.png" />
+  <img src="https://imgur.com/6nrBzqm.png" />
 </p>
 
 # Welcome to the Project 𝓔𝓵𝓲𝔁𝓲𝓻 /////////////// 
 
-Project Elixir basically offers a premium minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
+Project Elixir basically is yet another AOSP ROM in the market. Redefining your android experience with our new update which offers minimal UI enhancement and close to Stock android experience with customization So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
 [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
@@ -52,7 +52,13 @@ mka bacon -jX
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
  * [**PixelExperience**](https://github.com/PixelExperience)
-
+ * [**xdroidOSS**](https://github.com/xdroid-oss)
+ * [**ParanoidAndroid**](https://github.com/AOSPA)
+ * [**ProtonAOSP**](https://github.com/ProtonAOSP)
+ * [**crDroid**](https://github.com/crdroidandroid)
+ * [**ArrowOS**](https://github.com/ArrowOS)
+ * And some other ROMs not mentioned above
+   
 ### Adding Support
 
 - For adding your device to the list of OFFICIALLY supported devices, you need to [**Fill the form & Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE) and fulfil the [**Maintainership requirement**](https://projectelixiros.com/documentation). Also you can contact us on Telegram profiles below.
