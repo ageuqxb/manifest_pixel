@@ -18,7 +18,6 @@
   
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="elixir" clone-depth="1" />
-  <project path="frameworks/base" name="frameworks_base" remote="elixir" clone-depth="1" />
   <project path="frameworks/native" name="frameworks_native" remote="elixir" clone-depth="1" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="elixir" clone-depth="1" />
 
@@ -44,7 +43,7 @@
   <!-- Hardware repos -->
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="elixir"  clone-depth="1" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="elixir"  clone-depth="1" />
-  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="elixir" clone-depth="1" />
+  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="elixir" revision="UNO-Public" clone-depth="1" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="elixir" clone-depth="1" />
 
   <!-- Packages repos -->

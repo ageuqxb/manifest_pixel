@@ -80,7 +80,6 @@
   <remove-project name="platform/prebuilts/go/darwin-x86" />
 
   <!-- Framework -->
-  <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/native" />
